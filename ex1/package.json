@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/nirajkvinit/hapi_practice#readme",
   "dependencies": {
-    "@hapi/hapi": "^19.0.5"
+    "@hapi/hapi": "^19.1.1"
   }
 }
